@@ -12,7 +12,7 @@ git install or git i
 	git log
 
 	##Command for install defined commit on your branch
-	git checkout 2kf2o2fk 
+	git checkout 0fe25f7 // first commit
 
 	##Command for add in control version git
 	git add.
