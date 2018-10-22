@@ -23,7 +23,7 @@ git install or git i
 	//  example: git commit -m "commit v kotorom ya tak mnogo sdelal"
 
 	##Command for commit on github
-	git push origin master
+	git push origin mastekator
 
 ### How to change project algorithm
 
