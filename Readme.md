@@ -13,6 +13,7 @@ git install or git i
 
 	##Command for install defined commit on your branch
 	git checkout 0fe25f7 // first commit
+	git checkout c0308d5 // max commit
 
 	##Command for add in control version git
 	git add.
