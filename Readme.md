@@ -29,7 +29,7 @@ git install or git i
 ### How to change project algorithm
 
 	change	document.getElementById('mainContent').innerHTML = ` in script.js
-	and var article
+	and var article 
 	create new method in Formul for example Formul.test
 	add css style for element
 
@@ -46,3 +46,16 @@ git install or git i
 src: https://www.youtube.com/watch?v=oDUjP4N_MtQ
 
 
+
+
+
+Chapter 2 : Emerging JavaScript
+==================
+If you haven't made the switch to the latest JavaScript syntax yet, now is a good time to get started.
+
+Samples
+--------
+
+### Declaring Variables in ES6
+
+#### const
